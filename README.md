@@ -1,6 +1,10 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Shaurya
 
-I'm a **Computer Science & Cognitive Systems student at UBC** and a **CS Teaching Assistant**, focused on building **production-grade systems** at the intersection of **software engineering, AI, and human-centered design**.
+- 💻 I'm a **Computer Science & Cognitive Systems student at UBC** and a **CS Teaching Assistant**
+- ⚙️ I'm focused on building **production-grade systems** at the intersection of **software engineering, AI, and human-centered design**.
+- 📍 I'm based in Vancouver, Canada - open to relocation!
+- 💼 LinkedIn: https://tinyurl.com/2m4zztnb  
+- 📧 Email: shauryathareja19@gmail.com  
 
 I enjoy designing clean abstractions, reasoning about system tradeoffs, and shipping products that real users rely on.
 
@@ -17,8 +21,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - 70+ users onboarded for beta testing
 - Currently integrating an **AI scheduling assistant** (RAG + agents)
 
-🔗 Repo: coming soon  
-🔗 Demo: coming soon  
+🔗 Repo: [https://github.com/xshauryaa/Plannr ](url)
 
 ### 💸 WealthWise — AI Personal Finance Companion
 **React Native · FastAPI · PyTorch · RAG**
@@ -28,40 +31,22 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - Focused on explainability, trust, and user learning
 - 40+ beta users through UBC BizTech KickStart
 
----
-
-### 📍 CampusPulse — Smart Study Spot Finder
-**React · FastAPI · scikit-learn**
-
-- Visualized real-time campus occupancy with a heatmap-style UI
-- Built a recommendation system based on environment preferences + predicted occupancy
-- Hackathon project (nwPlus HackCamp)
-
----
-
-## 🧠 What I Care About
-
-- System design & clean architecture  
-- AI systems that actually work in production  
-- Developer experience & thoughtful abstractions  
-- Building tools that respect human time and attention  
+🔗 Repo: [https://github.com/xshauryaa/WealthWise ](url)
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages**  
-`JavaScript` `TypeScript` `Python` `Java` `C` `C++` `SQL`
-
-**Frameworks & Tools**  
-`React Native` `React` `Next.js` `FastAPI` `Spring Boot` `Express.js`  
-`Docker` `PostgreSQL` `Git` `AWS`
-
-**AI / ML**  
-`RAG` `PyTorch` `scikit-learn` `LangChain` `CrewAI`
-
-**Design**  
-`Figma` `Framer` `Adobe Illustrator`
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -73,22 +58,5 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - Passionate about breaking down complex ideas clearly and intuitively
 
 ---
-
-## ✍️ Writing & Thinking
-
-I occasionally write about:
-- System design decisions
-- AI product tradeoffs
-- Building real software as a student
-
-(Links coming soon)
-
----
-
-## 📬 Let’s Connect
-
-- 🌐 Portfolio: coming soon  
-- 💼 LinkedIn: https://tinyurl.com/2m4zztnb  
-- 📧 Email: shauryathareja19@gmail.com  
 
 If you're building something ambitious and need someone who can **think deeply and ship fast**, I’d love to chat.
