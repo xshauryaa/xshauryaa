@@ -21,7 +21,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - 70+ users onboarded for beta testing
 - Currently integrating an **AI scheduling assistant** (RAG + agents)
 
-🔗 Repo: [https://github.com/xshauryaa/Plannr ](url)
+🔗 Repo: [https://github.com/xshauryaa/Plannr.git ](url)
 
 ### 💸 WealthWise — AI Personal Finance Companion
 **Co-Founder | React Native · FastAPI + Express.js · PyTorch · RAG**
@@ -31,7 +31,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - Focused on explainability, trust, and user learning
 - 40+ beta users through UBC BizTech KickStart
 
-🔗 Repo: [https://github.com/xshauryaa/WealthWise ](url)
+🔗 Repo: [https://github.com/xshauryaa/WealthWise.git ](url)
 
 ---
 
