@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shaurya
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, I'm Shaurya
 
 I'm a **Computer Science & Cognitive Systems student at UBC** and a **CS Teaching Assistant**, focused on building **production-grade systems** at the intersection of **software engineering, AI, and human-centered design**.
 
