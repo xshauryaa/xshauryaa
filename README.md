@@ -13,7 +13,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 ## 🚀 Currently Building
 
 ### 🗓️ Plannr — AI-Powered Smart Scheduling
-**Founder | React Native · FastAPI · PostgreSQL · GenAI**
+**Founder | React Native · Express.js · PostgreSQL · RAG · BLE + P2P**
 
 - Designed a **dependency-aware scheduling engine** using DAGs and topological sorting  
 - Implemented multiple scheduling strategies (earliest-fit, balanced-work, deadline-oriented)
@@ -24,7 +24,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 🔗 Repo: [https://github.com/xshauryaa/Plannr ](url)
 
 ### 💸 WealthWise — AI Personal Finance Companion
-**React Native · FastAPI · PyTorch · RAG**
+**Co-Founder | React Native · FastAPI + Express.js · PyTorch · RAG**
 
 - Built a **RAG-powered financial advisor** using transaction data via Plaid
 - Designed bite-sized, Duolingo-style financial education modules
