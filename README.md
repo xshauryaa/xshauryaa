@@ -3,6 +3,7 @@
 - 💻 I'm a **Computer Science & Cognitive Systems student at UBC** and a **CS Teaching Assistant**
 - ⚙️ I'm focused on building **production-grade systems** at the intersection of **software engineering, AI, and human-centered design**.
 - 📍 I'm based in Vancouver, Canada - open to relocation!
+- 🌐 Website: https://shauryathareja.vercel.app
 - 💼 LinkedIn: https://tinyurl.com/2m4zztnb  
 - 📧 Email: shauryathareja19@gmail.com  
 
