@@ -22,6 +22,7 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 - 70+ users onboarded for beta testing
 - Currently integrating an **AI scheduling assistant** (RAG + agents)
 
+🔗 App Store: [https://apps.apple.com/ca/app/plannr-scheduling-made-easy/id6748265401](url)
 🔗 Repo: [https://github.com/xshauryaa/Plannr.git ](url)
 
 ### 💸 WealthWise — AI Personal Finance Companion
