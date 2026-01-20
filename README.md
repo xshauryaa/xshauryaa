@@ -18,8 +18,9 @@ I enjoy designing clean abstractions, reasoning about system tradeoffs, and ship
 
 - Designed a **dependency-aware scheduling engine** using DAGs and topological sorting  
 - Implemented multiple scheduling strategies (earliest-fit, balanced-work, deadline-oriented)
+- Designed an AI-powered text-to-task parsing algorithm that improved generation speed by 5x
 - Built real-time rescheduling + ICS export
-- 70+ users onboarded for beta testing
+- 70+ active users 
 - Currently integrating an **AI scheduling assistant** (RAG + agents)
 
 🔗 App Store: [https://apps.apple.com/ca/app/plannr-scheduling-made-easy/id6748265401](url)
